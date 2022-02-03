@@ -1,0 +1,8 @@
+{
+  "name": "TesteMatrixAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gabriel-bassani/TesteMatrixAPI.git",
+  "author": "Bassani <gabrielbassabarreto@gmail.com>",
+  "license": "MIT"
+}
